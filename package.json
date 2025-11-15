@@ -1,0 +1,10 @@
+{
+  "name": "barbershop-frontend",
+  "version": "1.0.0",
+  "scripts": { "start": "vite" },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5",
+    "typescript": "^5"
+  }
+}
